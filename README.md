@@ -8,8 +8,10 @@
 - 💻 I love working on web development.
 - 📫 How to reach me: [sakshamsatnalika723@gmail.com](mailto:sakshamsatnalika723@gmail.com).
 
+
 ## 🔗 Connect with Me
 <div align="center">
+
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/Saks34)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakshamsatnalika)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@sakshusat)
@@ -19,6 +21,7 @@
 
 ## 🛠️ Technologies & Tools
 <div align="center">
+  
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5)
@@ -35,6 +38,7 @@
 </div>
 ## 📈 GitHub Stats
 <div align="center">
+  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saks34&show_icons=true&theme=dark)
 </div>
 
