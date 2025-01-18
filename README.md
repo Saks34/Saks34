@@ -1,9 +1,9 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Saksham!
 
 ## 🚀 About Me
-- 🌱 I’m currently learning [insert topic/technology].
-- 💻 I love working on [insert interests, e.g., web development, AI].
-- 📫 How to reach me: [email@example.com](mailto:email@example.com).
+- 🌱 I’m currently learning Java & MERN Stack.
+- 💻 I love working on web development.
+- 📫 How to reach me: [sakshamsatnalika723@gmail.com](mailto:sakshamsatnalika723@gmail.com).
 
 ## 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/Saks34)
