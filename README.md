@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning Java & MERN Stack.
 - 💻 I love working on web development.
-- 📫 How to reach me: [sakshamsatnalika723@gmail.com](mailto:sakshamsatnalika723@gmail.com).
+- 📫 How to reach me: [sakshamsatnalika34@gmail.com](mailto:sakshamsatnalika34@gmail.com).
 
 
 ## 🔗 Connect with Me
