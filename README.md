@@ -24,6 +24,7 @@
   
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
+![React Native](https://img.shields.io/badge/-React%20Native-blue?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
@@ -34,7 +35,6 @@
 ![npm](https://img.shields.io/badge/-npm-red?style=for-the-badge&logo=npm)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-blue?style=for-the-badge&logo=react)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
 </div>
 
